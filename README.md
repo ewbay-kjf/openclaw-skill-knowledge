@@ -1,8 +1,8 @@
-# OpenClaw Skill Knowledge Base
+# 腾讯 OpenClaw初始技能配置
 
 ## 概述
 
-这是一个包含 OpenClaw 所有可用技能的知识库和技能查询技能。
+这是腾讯 OpenClaw 的初始技能配置，包含所有可用技能的知识库和技能查询技能。
 
 ## 内容
 
